@@ -32,17 +32,19 @@
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 
-<img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>               
+<img align="left" src="https://img.icons8.com/color/32/000000/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/fluent/32/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/ios/32/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/mongodb.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/nolan/32/cloud.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/google-cloud-platform.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
-<img align="left" src="https://img.icons8.com/nolan/32/cloud.png"/>
-<img align="left" src="https://img.icons8.com/fluent/32/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/nginx.png"/>
 
 <br />
 
