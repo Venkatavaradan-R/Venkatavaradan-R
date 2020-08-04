@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a couple of projects, one of which is my [Portfolio][portfolio]!
 - 🌱 I’ve been very invested in Django backend and DevOps as of late :grey_exclamation:
-- 👯 Always looking to collaborate with other devs on projects!
-- 🥅 2020 Goals: Code atleast 6 days every week. (:muscle: 6 weeks and counting)
+- 👯 Always looking to collaborate with devs on projects! HMU on any of my social media if you're interested!
+- 🥅 2020 Goals: Code atleast 6 days every week. (:muscle: _6_ weeks and counting)
 - ⚡ Fun fact: I love reading :book: , and playing the guitar :guitar: :headphones:
 
 ### Connect with me:
