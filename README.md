@@ -39,6 +39,8 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/fluent/32/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/ubuntu--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/debian.png"/>
 <img align="left" src="https://img.icons8.com/ios/32/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/mongodb.png"/>
