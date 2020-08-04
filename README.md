@@ -31,8 +31,19 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img src="https://img.icons8.com/nolan/64/python.png"/>
+
+<pre>
+<img src="https://img.icons8.com/color/32/000000/python.png"/>               
+<img src="https://img.icons8.com/ios/32/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/32/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/32/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/32/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/32/000000/google-cloud-platform.png"/>
+<img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/nolan/32/cloud.png"/>
+<img src="https://img.icons8.com/fluent/32/000000/github.png"/>
+</pre>
 
 <br />
 <br />
