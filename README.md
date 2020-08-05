@@ -30,6 +30,7 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/fluent/32/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/dusk/32/000000/anaconda.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/ubuntu--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/debian.png"/>
