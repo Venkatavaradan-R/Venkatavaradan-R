@@ -43,6 +43,14 @@
 
 <br />
 
+### Familiar with:
+
+<img align="left" src="https://img.icons8.com/color/32/000000/html-5.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/javascript-logo-1.png"/>
+<img align="left" src="https://img.icons8.com/officel/32/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/firebase.png"/>
+
 [portfolio]: https://venkatavaradans-portfolio.herokuapp.com/index.html
 [linkedin]: https://www.linkedin.com/in/venkatavaradan-raghuraman-965445193/
 [instagram]: https://www.instagram.com/venky.png/
