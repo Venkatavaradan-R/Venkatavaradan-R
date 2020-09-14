@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a couple of projects, one of which is my [Portfolio][portfolio]!
 - 🌱 I’ve been highly invested in Django and DevOps as of late :grey_exclamation:
 - 👯 Always looking to collaborate with devs on projects! HMU on any of my social media if you're interested!
-- 🥅 2020 Goals: Code atleast 6 days every week. (_8_ weeks and counting:muscle:)
+- 🥅 2020 Goals: Code atleast 6 days every week. (_9_ weeks and counting:muscle:)
 - ⚡ Fun fact: I love reading :book: , and playing the guitar :guitar: :headphones:
 
 ### Connect with me:
