@@ -7,8 +7,8 @@
 
 ## I'm a Student, Developer, and Perpetual Learner!
 
-- 🔭 I’m currently working on a couple of projects, one of which is my [Portfolio][portfolio]!
-- 🌱 I’ve been highly invested in Django and DevOps as of late :grey_exclamation:
+- 🔭 I’m currently working on a couple of projects involving NLP and Bio-Inspired Computing :lion:
+- 🌱 I’ve been highly invested in Paralell Computing as of late :grey_exclamation:
 - 👯 Always looking to collaborate with devs on projects! HMU on any of my social media if you're interested!
 
 - ⚡ Fun fact: I love reading :book: , and playing the guitar :guitar: :headphones:
