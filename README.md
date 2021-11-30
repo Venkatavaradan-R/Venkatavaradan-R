@@ -55,7 +55,7 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/firebase.png"/>
 
 [portfolio]: https://venkatavaradans-portfolio.herokuapp.com/index.html
-[linkedin]: https://www.linkedin.com/in/venkatavaradan-raghuraman-965445193/
+[linkedin]: https://www.linkedin.com/in/venkatavaradan-r/
 [instagram]: https://www.instagram.com/venky.png/
 [twitter]: https://twitter.com/Zora_Awakened_
 [facebook]: https://www.facebook.com/venkat.varadhan.56
